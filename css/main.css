@@ -53,7 +53,7 @@
   /* разная плотность */
   font-style: normal;
 }
-body {
+html {
   scroll-behavior: smooth; 
 }
 /*VARIABLES*/
