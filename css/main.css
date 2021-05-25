@@ -53,6 +53,9 @@
   /* разная плотность */
   font-style: normal;
 }
+body {
+  scroll-behavior: smooth; 
+}
 /*VARIABLES*/
 /*MAIN*/
 .wrapper {
